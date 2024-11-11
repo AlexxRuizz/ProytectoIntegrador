@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AlexxRuizz/ProytectoIntegrador.git/static/css/main.79d19d76.css",
-    "main.js": "/AlexxRuizz/ProytectoIntegrador.git/static/js/main.aab497ea.js",
-    "static/js/453.2accbebf.chunk.js": "/AlexxRuizz/ProytectoIntegrador.git/static/js/453.2accbebf.chunk.js",
-    "index.html": "/AlexxRuizz/ProytectoIntegrador.git/index.html",
-    "main.79d19d76.css.map": "/AlexxRuizz/ProytectoIntegrador.git/static/css/main.79d19d76.css.map",
-    "main.aab497ea.js.map": "/AlexxRuizz/ProytectoIntegrador.git/static/js/main.aab497ea.js.map",
-    "453.2accbebf.chunk.js.map": "/AlexxRuizz/ProytectoIntegrador.git/static/js/453.2accbebf.chunk.js.map"
+    "main.css": "/AlexxRuizz.io/ProytectoIntegrador/static/css/main.79d19d76.css",
+    "main.js": "/AlexxRuizz.io/ProytectoIntegrador/static/js/main.099b700a.js",
+    "static/js/453.2accbebf.chunk.js": "/AlexxRuizz.io/ProytectoIntegrador/static/js/453.2accbebf.chunk.js",
+    "index.html": "/AlexxRuizz.io/ProytectoIntegrador/index.html",
+    "main.79d19d76.css.map": "/AlexxRuizz.io/ProytectoIntegrador/static/css/main.79d19d76.css.map",
+    "main.099b700a.js.map": "/AlexxRuizz.io/ProytectoIntegrador/static/js/main.099b700a.js.map",
+    "453.2accbebf.chunk.js.map": "/AlexxRuizz.io/ProytectoIntegrador/static/js/453.2accbebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79d19d76.css",
-    "static/js/main.aab497ea.js"
+    "static/js/main.099b700a.js"
   ]
 }
