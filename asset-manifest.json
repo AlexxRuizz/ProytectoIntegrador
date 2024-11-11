@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AlexxRuizz.io/ProytectoIntegrador/static/css/main.79d19d76.css",
-    "main.js": "/AlexxRuizz.io/ProytectoIntegrador/static/js/main.099b700a.js",
-    "static/js/453.2accbebf.chunk.js": "/AlexxRuizz.io/ProytectoIntegrador/static/js/453.2accbebf.chunk.js",
-    "index.html": "/AlexxRuizz.io/ProytectoIntegrador/index.html",
-    "main.79d19d76.css.map": "/AlexxRuizz.io/ProytectoIntegrador/static/css/main.79d19d76.css.map",
-    "main.099b700a.js.map": "/AlexxRuizz.io/ProytectoIntegrador/static/js/main.099b700a.js.map",
-    "453.2accbebf.chunk.js.map": "/AlexxRuizz.io/ProytectoIntegrador/static/js/453.2accbebf.chunk.js.map"
+    "main.css": "/ProytectoIntegrador/static/css/main.79d19d76.css",
+    "main.js": "/ProytectoIntegrador/static/js/main.9e7f7afa.js",
+    "static/js/453.2accbebf.chunk.js": "/ProytectoIntegrador/static/js/453.2accbebf.chunk.js",
+    "index.html": "/ProytectoIntegrador/index.html",
+    "main.79d19d76.css.map": "/ProytectoIntegrador/static/css/main.79d19d76.css.map",
+    "main.9e7f7afa.js.map": "/ProytectoIntegrador/static/js/main.9e7f7afa.js.map",
+    "453.2accbebf.chunk.js.map": "/ProytectoIntegrador/static/js/453.2accbebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79d19d76.css",
-    "static/js/main.099b700a.js"
+    "static/js/main.9e7f7afa.js"
   ]
 }
